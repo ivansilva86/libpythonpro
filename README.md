@@ -1,2 +1,2 @@
 # libpythonpro
-Módulo para especificar de projetos Python
+Módulo para especificação dos projetos do Curso Python Pro 
