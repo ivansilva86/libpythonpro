@@ -10,6 +10,8 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![Python 3](https://pyup.io/repos/github/ivansilva86/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/ivansilva86/libpythonpro/)
 [![codecov](https://codecov.io/gh/ivansilva86/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/ivansilva86/libpythonpro)
 
+
+
 Suportada versão 3 de Python_
 
 Para instalar:
