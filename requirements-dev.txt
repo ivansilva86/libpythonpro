@@ -10,7 +10,7 @@ requests==2.23.0
 urllib3==1.25.9
 
 #Deps do Pytest
-more-itertools==4.0.0
+more-itertools==8.2.0
 atomicwrites==1.0
 pluggy==1.0
 attrs==17.4.0
