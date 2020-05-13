@@ -12,7 +12,7 @@ class EnviadorMock(Enviador):
         self.parametros_de_envio = None
 
     def enviar(self, remetente, destinatario, assunto, corpo):
-        self.parametros_de_envio = (self, remetente, destinatario, assunto, corpo)
+        self.parametros_de_envio = (remetente, destinatario, assunto, corpo)
         self.qtd_de_emails_enviados += 1
 
 
