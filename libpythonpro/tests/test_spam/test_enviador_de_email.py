@@ -16,7 +16,6 @@ def test_criar_enviador_de_email():
 )
 def test_remetente(destinatario):
     enviador = Enviador()
-    destinatarios = ['ivan.paulosilva@gmail.com', 'foo@bar.com.br']
     resultado = enviador.enviar(
         destinatario,
         'anacristinaacm@yahoo.com.br',

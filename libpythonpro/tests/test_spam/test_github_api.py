@@ -2,6 +2,7 @@ from unittest.mock import Mock
 from libpythonpro import github_api
 import pytest
 
+
 @pytest.fixture
 def avatar_url(mocker):
     resp_mock = Mock()
